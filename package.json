@@ -1,0 +1,18 @@
+{
+  "name": "shotamporusni",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "iliarudyi",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-schedule": "^2.1.0",
+    "telebot": "^1.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
